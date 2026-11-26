@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Ali 👋 | AI Creator & Vibe Coder ⚡
 
-<!--
-**ali-vibe-ai/ali-vibe-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn ideas into fast, innovative digital products using AI tools and modern rapid-development workflows.
 
-Here are some ideas to get you started:
+#### 🛠️ What I Do:
+- 🎬 **AI Video Creation:** Producing creative and high-impact visual content.
+- ⚡ **Vibe Coding & Landing Pages:** Designing and shipping interactive websites at record speed.
+- 🤖 **Bot Development:** Automating workflows and building smart bots.
+- 🚀 **SaaS Projects:** Building and scaling micro to mid-sized web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:** [ali.mustafa.ai.hq@gmail.com](mailto:ali.mustafa.ai.hq@gmail.com)
+
+---
+
+### مرحباً، أنا علي (Ali) 👋 | صانع محتوى AI ومبرمج Vibe Coder ⚡
+
+أقوم بتحويل الأفكار إلى منتجات رقمية سريعة ومبتكرة باستخدام أدوات الذكاء الاصطناعي والبرمجة الحديثة.
+
+#### 🛠️ مجالات عملي:
+- 🎬 **صناعة الفيديو بالذكاء الاصطناعي:** إنتاج محتوى بصري إبداعي واحترافي.
+- ⚡ **Vibe Coding & Landing Pages:** تصميم وبناء صفحات هبوط ومواقع تفاعلية بسرعة قياسية.
+- 🤖 **تطوير البوتات (Bots):** أتمتة المهام وبناء بوتات ذكية.
+- 🚀 **مشاريع SaaS:** بناء وتطوير تطبيقات الويب المصغرة والمتوسطة.
+
+📫 **تواصل معي:** [ali.mustafa.ai.hq@gmail.com](mailto:ali.mustafa.ai.hq@gmail.com)
+
